@@ -3,7 +3,7 @@
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(img/intro-bg_1.jpg);
+    background: url(/CSS/intro-bg_1.jpg);
     background-size: cover;
 }
 #banner_content{
